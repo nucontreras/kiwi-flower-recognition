@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+FinalCode/__pycache__
+FinalCode/YOLOKiwiFlower/__pycache__
+FinalCode/YOLOKiwiFlower/weights/*
+!FinalCode/YOLOKiwiFlower/weights/.gitkeep
+.directory*
