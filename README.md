@@ -1,6 +1,6 @@
 # kiwi-flower-recognition
 
-Computer Vision project created from a deep learning model for a robotic project. This model recognize kiwi flowers in real time.
+Computer vision project using the YOLO object detection library. This model recognize kiwi flowers in real time.
 
 
 ![](flowers-recognition.png)
